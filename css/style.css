@@ -1,0 +1,33 @@
+body{
+    height: 100vh;
+    display: flex;
+    background-color: goldenrod;
+}
+
+.container{
+    margin: auto;
+    height: 900px;
+    background-image: url(https://th.bing.com/th/id/R.f8bc1b542b7e26f2b8ba66c49e71e54f?rik=3aJ30nwoUkun3A&riu=http%3a%2f%2fwww.bibliotecadetentori.com%2fpergamena%2f72%2fsfondo002.png&ehk=beOIlLbNeyMl7aIl4yU%2btGAuPD3LdKHJuvntA9zNqMw%3d&risl=&pid=ImgRaw&r=0);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+h1{
+    margin: 11rem 0 0 12rem;
+}
+
+.grocery-list{
+    margin: 3rem 0 0 12rem;
+}
+
+.grocery-list li{
+    margin: 1rem 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+form{
+    margin: 3rem 0 0 12rem;
+}
+
